@@ -4,7 +4,6 @@
 - 💬 Ask me about Full stack development & programming
 - 📫 Reach me: darshannagesh2002@gmail.com
 
-https://komarev.com/ghpvc/?username=Darshan-Nagesh
 <div id="badges">
 <img src="https://komarev.com/ghpvc/?username=Darshan-Nagesh&style=flat-square&color=blue" alt=""/>
 </div>
