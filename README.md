@@ -10,7 +10,8 @@
 
 ### :fire: My Stats :
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Darshan-Nagesh&show_icons=true&locale=en" alt="Darshan-Nagesh" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Darshan-Nagesh&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Darshan-Nagesh&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan-Nagesh&" alt="Darshan-Nagesh" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-Nagesh&layout=compact&theme=vision-friendly-dark)](https://github.com/Darshan-Nagesh/github-readme-stats)
 
