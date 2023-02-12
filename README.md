@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Darshan-Nageshe&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Darshan-Nagesh&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **Darshan-Nagesh/Darshan-Nagesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
