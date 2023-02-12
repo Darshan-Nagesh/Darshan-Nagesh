@@ -4,7 +4,7 @@
 </div>
 
 - 🌱 I’m currently learning ML & AI
-- 👨‍💻 All of my projects are available on [Github](https://github.com/Darshan-Nagesh)- 
+- 👨‍💻 All of my projects are available on [Github](https://github.com/Darshan-Nagesh)
 - 💬 Ask me about **Full stack development & programming**
 - 📫 Reach me: **darshannagesh2002@gmail.com**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://www.iconfinder.com/icons/341095/css3_icon"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
