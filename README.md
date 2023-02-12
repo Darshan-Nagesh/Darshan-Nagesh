@@ -3,6 +3,11 @@
 - 👨‍💻 All of my projects are available on [Github](https://github.com/Darshan-Nagesh)- 
 - 💬 Ask me about Full stack development & programming
 - 📫 Reach me: darshannagesh2002@gmail.com
+
+https://komarev.com/ghpvc/?username=Darshan-Nagesh
+<div id="badges">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 **Darshan-Nagesh/Darshan-Nagesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
