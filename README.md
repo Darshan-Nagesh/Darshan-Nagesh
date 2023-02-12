@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning ML & AI
 - 👨‍💻 All of my projects are available on [Github](https://github.com/Darshan-Nagesh)- 
 - 💬 Ask me about Full stack development & programming
-- 📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-n-534867202/)
+- 📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-Darshan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-n-534867202/)
 
 <div id="badges">
 <img src="https://komarev.com/ghpvc/?username=Darshan-Nagesh&style=flat-square&color=blue" alt=""/>
