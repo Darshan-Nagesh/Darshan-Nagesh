@@ -8,7 +8,7 @@
 - 💬 Ask me about **Full stack development & programming**
 - 📫 Reach me: **darshannagesh2002@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Darshan-Nagesh)
 ### :fire: My Stats :
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Darshan-Nagesh&show_icons=true&locale=en" alt="Darshan-Nagesh" /></p>
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Darshan-Nagesh&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
