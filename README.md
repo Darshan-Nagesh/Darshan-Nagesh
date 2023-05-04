@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Darshan N</h1>
 <div id="badges">
 <img src="https://komarev.com/ghpvc/?username=Darshan-Nagesh&style=flat-square&color=blue" alt=""/>
-[![Hits](https://hits.sh/github.com/Darshan-Nagesh.svg?label=Profile%20views&extraCount=1750&color=0d7ee5)](https://hits.sh/github.com/Darshan-Nagesh/)
+<img src="https://hits.sh/github.com/Darshan-Nagesh.svg?label=Profile%20views&extraCount=1750&color=0d7ee5"/>
 </div>
 
 - 🌱 I’m currently learning ML & AI
