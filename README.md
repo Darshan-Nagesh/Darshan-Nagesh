@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Darshan N</h1>
 <div id="badges">
-<img src="https://hits.sh/github.com/Darshan-Nagesh.svg?label=Profile%20views&extraCount=3250&color=0d7ee5"/>
+<img src="https://hits.sh/github.com/Darshan-Nagesh.svg?label=Profile%20views&extraCount=4007&color=0d7ee5"/>
 </div>
 
 - 🌱 I’m currently learning ML & AI
