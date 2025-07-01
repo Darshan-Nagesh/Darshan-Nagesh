@@ -8,7 +8,6 @@
 - 💬 Ask me about **Full stack development & programming**
 - 📫 Reach me: **darshannagesh2002@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-Nagesh&layout=compact&theme=vision-friendly-dark)](https://github.com/Darshan-Nagesh/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
