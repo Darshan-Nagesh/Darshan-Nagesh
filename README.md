@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
-//![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan-Nagesh&theme=dark&show_icons=true)
+<!-- ![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan-Nagesh&theme=dark&show_icons=true) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
