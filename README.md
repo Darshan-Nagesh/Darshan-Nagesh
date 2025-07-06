@@ -3,9 +3,10 @@
 <img src="https://hits.sh/github.com/Darshan-Nagesh.svg?label=Profile%20views&extraCount=23257&color=0d7ee5"/>
 </div>
 
-- 🌱 I’m currently learning ML & AI
+-🔭 I’m currently working on SD-WAN Networking
+- 🌱 I’m currently learning AI 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/Darshan-Nagesh)
-- 💬 Ask me about **Full stack development & programming**
+- 💬 Ask me about **SD-WAN Networking, Routing, Full stack development & programming**
 - 📫 Reach me: **darshannagesh2002@gmail.com**
 
 
@@ -21,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
+
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan-Nagesh&theme=dark&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
